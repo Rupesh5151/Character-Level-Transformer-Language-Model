@@ -1,4 +1,4 @@
-# Mini LLM From Scratch
+# Character-Level-Transformer-Language-Model
 
 A beginner-friendly **Mini Language Model (LLM)** built completely from scratch using **PyTorch** and trained on the **WikiText-2 dataset**.  
 This project demonstrates the core working principles behind modern Large Language Models such as tokenization, embeddings, transformers, attention mechanisms, and text generation.
