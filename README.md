@@ -279,13 +279,13 @@ check repo file
 
 # Author
 
-## Adarsh Dwivedi
+## Rupesh Kumar Sah
 
-B.Tech CSE Student  
+B.Tech CSE (AI) Student  
 AI/ML & Web Development Enthusiast
 
 GitHub:
-https://github.com/dwivediadarsh496-commits
+https://github.com/Rupesh5151
 
 ---
 
